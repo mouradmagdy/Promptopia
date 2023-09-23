@@ -34,7 +34,7 @@ export const PATCH = async (request, { params }) => {
 
     return new Response(JSON.stringify(existingPrompt), { status: 200 });
   } catch (error) {
-    return new Resoponse("Failed to update prompt", { status: 500 });
+    return new Response("Failed to update prompt", { status: 500 });
   }
 };
 
