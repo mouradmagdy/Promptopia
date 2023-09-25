@@ -2,7 +2,7 @@
 Promptopia is a web application where you can copy a prompt that was written and paste it to your chatgpt or you can create your own prompts.
 
 ## Project demo
-The project is deployed to vercel [Promptopia](https://promptopia-mourad-7z5pcczke-mouradmagdy.vercel.app/).
+The project is deployed to vercel [Promptopia](https://promptopia-8zfcb70f5-mouradmagdy.vercel.app/).
 
 ## Technologies used
 * Nextjs 13:This project is built using the latest Next.js version, offering high performance, server-side rendering, and an excellent development experience.
