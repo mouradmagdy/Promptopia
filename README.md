@@ -6,9 +6,9 @@ The project is deployed to vercel [Promptopia](https://promptopia-8zfcb70f5-mour
 
 ## Features
 * You can create prompts of your own, edit and delete them.
-* You can view other users prompts and check there profile.
+* You can view other users prompts and check their profile.
 * You can search for a specific username, tag or a prompt.
-* Responsive web design
+* Responsive web design.
 
 ## Technologies used
 * Nextjs 13:This project is built using the latest Next.js version, offering high performance, server-side rendering, and an excellent development experience.
